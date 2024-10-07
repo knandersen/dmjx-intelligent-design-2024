@@ -10,10 +10,7 @@ In Exercise 1 you learned how to build simple classification model. In this exer
 
 _This will generate a public URL that anyone on the internet can potentially access_
 
-4. Pick which environment you want to build in:
-
-1) `P5js`
-2) `HTML/Javascript`
+4. Pick which environment you want to build in: `P5js` or `HTML/Javascript` and follow the instructions for either:
 
 #### P5js
 

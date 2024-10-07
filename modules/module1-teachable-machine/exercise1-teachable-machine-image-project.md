@@ -11,7 +11,7 @@ Can you hack your model and make it detect a false positive? If you are sitting 
 
 How could you make the model more robust? What would adding more classes/samples do to the model?
 
-If you're curious making the model more robust, read the [Extra](#extra)-section
+If you're curious making the model more robust, read the [Extra](#extra)-section.
 
 5. Repeat the exercise, but with a `Sound Project`
 6. Repeat the exercise, but with a `Pose Project`
