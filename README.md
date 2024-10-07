@@ -15,3 +15,19 @@ Communication: [SLACK / DISCORD LINK]
 [Book help session](https://calendly.com/superultra/dmjx-intelligent-design-2024)
 
 [Extra material that might be interesting](/extra-material.md)
+
+## Modules
+
+The course will consist of three modules: Teachable Machine, Generative AI and self-directed projects
+
+### [Teachable Machine](/modules/module1-teachable-machine/)
+
+This first module will give an introduction to using machine learning to classify images, sounds and body poses. These classifications will be an input mechanism for building apps.
+
+### Generative AI
+
+This second module will give an introduction to use the latest wave of AI technologies that allow us to generate text, images and sounds. We will use generative AI as an input mechanism, an output mechanism, and as a thinking tool.
+
+### Self-directed project
+
+In this last module, students will define and build their own projects using the tools and techniques they learned during the first two modules.
