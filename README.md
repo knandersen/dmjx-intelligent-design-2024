@@ -2,7 +2,7 @@
 
 This is the course site for the "Intelligent Design" course at DMJX, running 21. October through 8. November 2024.
 
-### Links
+## Links
 
 Link to this site: https://tinyurl.com/dmjxai24
 
