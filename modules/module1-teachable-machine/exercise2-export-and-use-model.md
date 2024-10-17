@@ -2,7 +2,7 @@
 
 ![](/assets/ex2-export-dialog.png)
 
-In Exercise 1 you learned how to build simple classification model. In this exercise we will focus on how we get the models into our favorite programming environment (P5js or a HTML/Javascript framework).
+In Exercise 1 you learned how to build simple classification models. In this exercise we will focus on how we get the models into our favorite programming environment (P5js or a HTML/Javascript framework).
 
 1. Repeat Exercise 1 or use one of your existing models
 2. In the `Preview`-pane, click `Export Model`
