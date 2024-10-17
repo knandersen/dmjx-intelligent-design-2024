@@ -22,6 +22,13 @@ Matt Webb is notable in the world of AI for his innovative thinking at the inter
 
 Meng To is notable in the world of design and technology, particularly for his work in creating tools and resources that bridge the gap between design and development, with a growing focus on AI. As the founder of Design+Code, he has empowered designers to learn coding and developers to enhance their design skills through accessible tutorials and courses. Meng To's emphasis on integrating design thinking into digital products, including leveraging AI for design automation and workflows, has made him an influential figure in modern design education. His work helps creative professionals adapt to the evolving landscape shaped by AI and machine learning.
 
+### [Andrei Karpathy](https://karpathy.ai)
+
+Founding member of OpenAI and led AI at Tesla. Fairly technical content, but a goldmine if you want to understand how generative AI works under the hood. His YouTube channel is a goldmine, incl:
+
+- [Intro to Large Language Models](https://www.youtube.com/watch?v=zjkBMFhNj_g)
+- [Let's build GPT](https://www.youtube.com/watch?v=kCc8FmEb1nY)
+
 ## Other Resources
 
 - [Interdependence podcast](https://interdependence.fm)
