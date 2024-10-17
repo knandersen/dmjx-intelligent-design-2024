@@ -43,8 +43,6 @@ _example of how to do a simple analysis of an image_
 3. Drag-and-drop the work into ChatGPT and provide a prompt for it to analyse the work.
 4. Compare and reflect on the differences between your own "analog" analysis and the one from ChatGPT. Is one better than the other? Can comparing them influence your analog analysis or your ChatGPT prompt in the future?
 
-
-
 ## Exercise 4.3: Prompt Injection
 
 When you ask ChatGPT something, you feed it a prompt, but what you might not know is that OpenAI themselves also provide a prompt, known as a `system` prompt. This is something that might not be desirable for OpenAI to publish, and from time to time they try to add security measures to prevent people from accessing it. Using a technique called [`prompt injection`](https://en.wikipedia.org/wiki/Prompt_injection), we can "trick" ChatGPT into revealing the system prompt. Try feeding ChatGPT this prompt:
