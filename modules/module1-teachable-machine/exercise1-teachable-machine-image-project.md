@@ -1,4 +1,4 @@
-# EX1: Simple Image Model with Teachable Machine
+# Exercise 1: Simple Image Model with Teachable Machine
 
 ![Screenshot from Teachable Machine website of different Project Types: Image, Sound, Pose](/assets/ex1-project-types.png)
 
