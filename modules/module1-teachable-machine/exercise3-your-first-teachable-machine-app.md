@@ -10,6 +10,8 @@ Take the term "drawing tool" very liberally in terms of what/how you draw, but t
 
 _Note: If you have an idea you like, but don't know how to build, bring it to class, so we can talk about it_
 
+_Bonus points: Read this article on ["The Importance of Parameter Mapping in Electronic Instrument Design"](https://www.researchgate.net/publication/2542502_The_Importance_of_Parameter_Mapping_in_Electronic_Instrument_Design#fullTextFileContent) and use the technique described in your drawing app._
+
 ### Steps
 
 1. Build a model by following the same process as [Exercise 1](#ex1-simple-image-model-with-teachable-machine)
