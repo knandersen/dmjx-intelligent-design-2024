@@ -31,6 +31,9 @@ _Check the code for any unlikely malicious code (don't run any code you don't un
 
 ## Exercise 4.2: Analysis
 
+https://github.com/user-attachments/assets/ded08085-7891-4aaa-8020-692a9fac9430
+_example of how to do a simple analysis of an image_
+
 1. Pick 4-5 of image/video works that you've found inspiring recently (or make your own recordings)
 2. For each piece, spend 5 minutes doing your own analysis of the work, eg describe:
    - Style
@@ -39,7 +42,7 @@ _Check the code for any unlikely malicious code (don't run any code you don't un
 3. Drag-and-drop the work into ChatGPT and provide a prompt for it to analyse the work.
 4. Compare and reflect on the differences between your own "analog" analysis and the one from ChatGPT. Is one better than the other? Can comparing them influence your analog analysis or your ChatGPT prompt in the future?
 
-[![Watch the video](/assets/ex4-chatgpt-multimodal.png)](/assets/ex4-chatgpt-multimodal.mov)
+
 
 ## Presentation
 
