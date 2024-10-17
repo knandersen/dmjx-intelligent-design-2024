@@ -32,6 +32,7 @@ _Check the code for any unlikely malicious code (don't run any code you don't un
 ## Exercise 4.2: Analysis
 
 https://github.com/user-attachments/assets/ded08085-7891-4aaa-8020-692a9fac9430
+
 _example of how to do a simple analysis of an image_
 
 1. Pick 4-5 of image/video works that you've found inspiring recently (or make your own recordings)
