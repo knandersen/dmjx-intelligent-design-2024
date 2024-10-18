@@ -1,4 +1,4 @@
-# Exercise 2: Export model and use in your favorite environment
+# Exercise 2: Export TM Models For Your Own Projects
 
 ![](/assets/ex2-export-dialog.png)
 
@@ -27,3 +27,7 @@ _Note: even though there is a p5.js-snippet, it doesn't work due to breaking cha
 ## Next steps
 
 Build something fun, either by taking a project you've previously built and augmenting it with controls based on image/sound/pose-detection, or by making something entirely new!
+
+## Troubleshooting
+
+[Teachable Machine Tutorial 3: Export](https://www.youtube.com/watch?v=n-zeeRLBgd0) (YouTube)

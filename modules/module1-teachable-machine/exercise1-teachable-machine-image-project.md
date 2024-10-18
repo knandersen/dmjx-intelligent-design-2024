@@ -27,3 +27,11 @@ If you're curious making the model more robust, read the [Extra](#extra)-section
 ## Extra
 
 Read this [Teachable Machine Tutorial: Bananameter](https://medium.com/@warronbebster/teachable-machine-tutorial-bananameter-4bfffa765866) article and complete the exercise.
+
+## Troubleshooting
+
+[Teachable Machine Tutorial 1: Gather](https://www.youtube.com/watch?v=DFBbSTvtpy4) (YouTube)
+
+[Teachable Machine Tutorial 2: Train](https://www.youtube.com/watch?v=CO67EQ0ZWgA) (YouTube)
+
+[Google Teachable Machine Full Tutorial](https://www.youtube.com/watch?v=LRxvBlL25s8) (YouTube)
