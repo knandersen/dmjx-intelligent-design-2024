@@ -1,3 +1,7 @@
+# Extra Material
+
+Below you can find a list of people and resources that I have found inspiring and helpful in learning and working with AI. Feel free to add to this list by creating a pull request.
+
 ## People
 
 ### [Holly Herndon](https://en.wikipedia.org/wiki/Holly_Herndon)
