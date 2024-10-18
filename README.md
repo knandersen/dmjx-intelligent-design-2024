@@ -36,9 +36,17 @@ This first module will give an introduction to using machine learning to classif
 
 _Coming soon_
 
-### Module 2: Generative AI
+### [Module 2: Generative AI](/modules/module2-generative-ai/)
 
 This second module will give an introduction to use the latest wave of AI technologies that allow us to generate text, images and sounds. We will use generative AI as an input mechanism, an output mechanism, and as a thinking tool.
+
+#### Exercises
+
+[Exercise 4: ChatGPT](/modules/module2-generative-ai/exercise4-chatgpt.md)
+
+[Exercise 5: GPT API](/modules/module2-generative-ai/exercise5-gpt-api.md)
+
+Exercise 6: Image Generation (coming soon)
 
 ### Module 3: Self-directed project
 
