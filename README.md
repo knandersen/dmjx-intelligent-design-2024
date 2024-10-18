@@ -6,7 +6,7 @@ This is the course site for the "Intelligent Design" course at DMJX, running 21.
 
 Link to this site: https://tinyurl.com/dmjxai24
 
-Communication: [SLACK / DISCORD LINK]
+Communication (Discord): https://discord.gg/mwVtYkXE
 
 [Schedule](https://docs.google.com/spreadsheets/d/1A29iED_wZl75UF0KPcnatoZ7bSxSP5E8diURj0rZZDg)
 
