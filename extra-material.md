@@ -33,8 +33,14 @@ Founding member of OpenAI and led AI at Tesla. Fairly technical content, but a g
 - [Intro to Large Language Models](https://www.youtube.com/watch?v=zjkBMFhNj_g)
 - [Let's build GPT](https://www.youtube.com/watch?v=kCc8FmEb1nY)
 
+## Module 1: Teachable Machine
+
+- [Coding Train ML5js Track](https://thecodingtrain.com/tracks/ml5js-beginners-guide)
+
 ## Other Resources
 
 - [Interdependence podcast](https://interdependence.fm)
 - Transmission AI Meetup: https://www.meetup.com/ai-meetup-copenhagen-innovators-creators-techies/
-- Steven Wolfram's ["What is ChatGPT Doing and Why Does It Work?"](https://writings.stephenwolfram.com/2023/02/what-is-chatgpt-doing-and-why-does-it-work/)
+- [_"What is ChatGPT Doing and Why Does It Work?"_](https://writings.stephenwolfram.com/2023/02/what-is-chatgpt-doing-and-why-does-it-work/) by Steven Wolfram
+- [Interactive LLM visualization](https://perplexity.vercel.app)
+- [_"I built my first AI NPC teammates and here’s what I learnt"_](https://interconnected.org/home/2023/09/01/npcs) by Matt Webb
