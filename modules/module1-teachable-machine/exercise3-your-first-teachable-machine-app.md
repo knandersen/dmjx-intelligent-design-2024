@@ -1,4 +1,4 @@
-# Exercise 3: Drawing tool
+# Exercise 3: Make a drawing tool using Teachable Machine
 
 ### Brief
 
