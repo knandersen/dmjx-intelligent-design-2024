@@ -2,7 +2,7 @@
 
 The goal of this exercise is to learn how to train your own machine learning models that can classify images, sounds and poses. For the exercises in this module, we will use Teachable Machine. Teachable Machine is a web-based tool that makes creating machine learning models fast, easy, and accessible to everyone and was developed by Google.
 
-![Example of a Teachable Machine Image model that has been trained to distinguish bananas of different ripeness](https://miro.medium.com/v2/resize:fit:1400/format:webp/0*4hg7fS-BPMDn-kbc)
+![Example of a Teachable Machine Image model that has been trained to distinguish bananas of different ripeness](/assets/ex1-tm-banana.gif)
 _Example of a Teachable Machine Image model that has been trained to distinguish bananas of different ripeness_
 
 ### Steps
