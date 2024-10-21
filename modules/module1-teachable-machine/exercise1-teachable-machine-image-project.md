@@ -28,6 +28,17 @@ If you're curious making the model more robust, read the [Extra](#extra)-section
 
 Read this [Teachable Machine Tutorial: Bananameter](https://medium.com/@warronbebster/teachable-machine-tutorial-bananameter-4bfffa765866) article and complete the exercise.
 
+Play with Teachable Machine and Scratch!
+
+1. Export your image/sound/pose TM model and copy the model
+2. Go to https://champierre.github.io/tm2scratch/
+3. Make a fun program using the "TM2Scratch" extension (see example below)
+
+<video width="600" controls>
+  <source src="/assets/ex1-tm2scratch.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
 ## Troubleshooting
 
 [Teachable Machine Tutorial 1: Gather](https://www.youtube.com/watch?v=DFBbSTvtpy4) (YouTube)
