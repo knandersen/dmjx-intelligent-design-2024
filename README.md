@@ -24,6 +24,10 @@ The course will consist of three modules: Teachable Machine, Generative AI and s
 
 This first module will give an introduction to using machine learning to classify images, sounds and body poses. These classifications will be an input mechanism for building apps.
 
+#### Talks
+
+[Talk 1: Intro and Intelligence](/modules/module1-teachable-machine/talk1-intro-and-intelligence.pdf)
+
 #### Exercises
 
 [Exercise 1: Simple Classification Models w/Teachable Machine](/modules/module1-teachable-machine/exercise1-teachable-machine-image-project.md)
