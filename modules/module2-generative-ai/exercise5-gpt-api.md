@@ -12,6 +12,8 @@ You can use OpenAI's APIs to generate text, images, and other things that can be
 4. Create a javascript file
 5. Follow https://platform.openai.com/docs/guides/text-generation and copy the provided examples to your javascript file and run it
 
+If you have experience challenges completing this exercise, there is a Vue example project here: https://github.com/knandersen/openai-quickstart-vue
+
 **IMPORTANT:**
 Because it's bad practice and would allow anyone else to use it and spend your money, OpenAI doesn't tell you to put your API key in the script. To make the examples work, create a secret `.env` file in your project root and define the `OPENAI_API_KEY` variable, eg:
 
@@ -27,9 +29,25 @@ const openai = new OpenAI({
 });
 ```
 
-## Exercise 5.2: Play with ways of using the API
+## Exercise 5.2: Try different Completion parameters
 
-There are many ways of using GPT as a material and the field is emerging. A few design patterns our studio has explored in working with GPT as a material for thinking and creating are listed below. Use one or more of these design patterns to create small, fun applications.
+There are parameters you can adjust to change how text is generated: https://platform.openai.com/docs/api-reference/chat/create
+
+While this might seem like a very technical exercise, try to input the same prompt but with different parameters and notice how the response changes. Feel free to try whatever you want, but at least:
+
+- `seed` https://platform.openai.com/docs/api-reference/chat/create#chat-create-seed
+- `temperature` or `top_p` https://platform.openai.com/docs/api-reference/chat/create#chat-create-temperature
+
+Bonus points for trying:
+
+- `frequency_penalty` https://platform.openai.com/docs/api-reference/chat/create#chat-create-frequency_penalty
+- `logit_bias` https://platform.openai.com/docs/api-reference/chat/create#chat-create-logit_bias
+- `n` https://platform.openai.com/docs/api-reference/chat/create#chat-create-n
+- `presence_penalty` https://platform.openai.com/docs/api-reference/chat/create#chat-create-presence_penalty
+
+## Exercise 5.3: Play with ways of using the API
+
+There are many ways of using GPT as a material and the field is emerging. A few design patterns I have investigated through my work with GPT as a material for thinking and creating are listed below. Use one or more of these design patterns to create small, fun applications.
 
 ### Time
 
