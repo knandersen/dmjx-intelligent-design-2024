@@ -44,3 +44,24 @@ Founding member of OpenAI and led AI at Tesla. Fairly technical content, but a g
 - [_"What is ChatGPT Doing and Why Does It Work?"_](https://writings.stephenwolfram.com/2023/02/what-is-chatgpt-doing-and-why-does-it-work/) by Steven Wolfram
 - [Interactive LLM visualization](https://perplexity.vercel.app)
 - [_"I built my first AI NPC teammates and here’s what I learnt"_](https://interconnected.org/home/2023/09/01/npcs) by Matt Webb
+- ["The Internet Isn’t Meant To Be So Small"](https://defector.com/the-internet-isnt-meant-to-be-so-small) by Kelsey McKinney
+
+### Running AI models locally
+
+#### [GGML](https://github.com/ggerganov/ggml)
+
+#### [Transformers.js](https://huggingface.co/docs/transformers.js/index)
+
+#### [Google Chrome: Built-in AI](https://developer.chrome.com/docs/ai/built-in)
+
+#### [ComfyUI](https://www.comfy.org)
+
+## Books
+
+- Hertzian Tales
+- Blockchain Chicken Farm
+- Manual of Design Fiction
+- How to Build a Low-Tech Internet
+- Logic Magazine
+- Kernel
+- Nature of Code
