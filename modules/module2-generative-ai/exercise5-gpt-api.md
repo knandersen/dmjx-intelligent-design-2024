@@ -47,7 +47,7 @@ Bonus points for trying:
 
 ## Exercise 5.3: Play with ways of using the API
 
-There are many ways of using GPT as a material and the field is emerging. A few design patterns I have investigated through my work with GPT as a material for thinking and creating are listed below. Use one or more of these design patterns to create small, fun applications.
+There are many ways of using GPT as a material and the field is emerging. A few design patterns I have investigated through my work with GPT as a material for thinking and creating are listed below. Use one or more of these design patterns to create small, fun applications. Maybe it's a poem, a word association game? Could you create some sort of input that affects the prompt?
 
 ### Time
 
@@ -93,3 +93,9 @@ Can the text you generate using ChatGPT itself be part of your next prompt? Pote
 ### Text as a graphical element
 
 Text itself can be a graphical element. Can you use GPT to return text in a way that makes it graphical? eg ASCII art, grids, etc.
+
+## Exercise 5.4: JSON output (optional)
+
+One of the difficult things about using GPT in your own app can be getting a response in the correct format. Fortunately, OpenAI have added the option to specify a JSON schema that you want data to be returned in.
+
+Go to https://platform.openai.com/docs/guides/structured-outputs/introduction and follow the `node.js` examples.
