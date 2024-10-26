@@ -36,13 +36,13 @@ This first module will give an introduction to using machine learning to classif
 
 [Exercise 3: Make a drawing tool using Teachable Machine](/modules/module1-teachable-machine/exercise3-your-first-teachable-machine-app.md)
 
-#### Talks
-
-_Coming soon_
-
 ### [Module 2: Generative AI](/modules/module2-generative-ai/)
 
 This second module will give an introduction to use the latest wave of AI technologies that allow us to generate text, images and sounds. We will use generative AI as an input mechanism, an output mechanism, and as a thinking tool.
+
+#### Talks
+
+[Talk 2: Generative AI](/modules/module2-generative-ai/talk2-generative-ai.pdf)
 
 #### Exercises
 
