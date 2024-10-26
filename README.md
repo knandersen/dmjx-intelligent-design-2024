@@ -50,7 +50,7 @@ This second module will give an introduction to use the latest wave of AI techno
 
 [Exercise 5: GPT API](/modules/module2-generative-ai/exercise5-gpt-api.md)
 
-Exercise 6: Image Generation (coming soon)
+[Exercise 6: Image Generation](/modules/module2-generative-ai/exercise6-image-generation.md)
 
 ### Module 3: Self-directed project
 
