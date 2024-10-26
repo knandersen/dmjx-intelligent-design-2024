@@ -69,7 +69,7 @@ You may already have encountered this in the previous exercise, but some of the 
 2. Use the alpha-channel of our existing image as the mask (ie erase pixels)
 
 ![Screenshot of how a mask can be used for editing purposes](/assets/ex6-masking.png)
-Screenshot from: https://huggingface.co/docs/diffusers/en/using-diffusers/inpaint
+_Screenshot from: https://huggingface.co/docs/diffusers/en/using-diffusers/inpaint_
 
 As part of the starter project, there is a `Sketch`-component. Notice how you can draw on it with a brush to erase pixels.
 
