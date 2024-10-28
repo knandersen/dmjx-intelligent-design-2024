@@ -90,11 +90,15 @@ Using the GPT system prompt, you can steer the generated content.
 
 Can the text you generate using ChatGPT itself be part of your next prompt? Potentially creating a never ending stream of text. What kind of results does this yield?
 
-### Text as a graphical element
+## Exercise 5.4: Text as a graphical element
 
-Text itself can be a graphical element. Can you use GPT to return text in a way that makes it graphical? eg ASCII art, grids, etc.
+Text itself can be a graphical element. Look for inspiration out in the world, in books, online, etc. and find something you really like. Analyze the graphic expression, what colors, techniques, typefaces, etc. are they using.
 
-## Exercise 5.4: JSON output (optional)
+Build a small application that either mimicks or is inspired by your source of inspiration.
+
+Use GPT to return text and use the text in a way that makes it graphical eg ASCII art, grids, etc.
+
+## Exercise 5.5: JSON output (optional)
 
 One of the difficult things about using GPT in your own app can be getting a response in the correct format. Fortunately, OpenAI have added the option to specify a JSON schema that you want data to be returned in.
 
