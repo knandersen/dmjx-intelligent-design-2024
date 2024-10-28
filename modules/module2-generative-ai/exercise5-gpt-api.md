@@ -15,19 +15,7 @@ You can use OpenAI's APIs to generate text, images, and other things that can be
 If you have experience challenges completing this exercise, there is a Vue example project here: https://github.com/knandersen/openai-quickstart-vue
 
 **IMPORTANT:**
-Because it's bad practice and would allow anyone else to use it and spend your money, OpenAI doesn't tell you to put your API key in the script. To make the examples work, create a secret `.env` file in your project root and define the `OPENAI_API_KEY` variable, eg:
-
-```env
-OPENAI_API_KEY=<YOUR_API_KEY>
-```
-
-If this doesn't work or you want to be even more explicit about using the environment variable, supply a `apiKey` argument that points to your environment variable when you initialize the `OpenAI` client:
-
-```javascript
-const openai = new OpenAI({
-  apiKey: process.env.OPENAI_API_KEY,
-});
-```
+Because it's bad practice and would allow anyone else to use it and spend your money, OpenAI doesn't tell you to put your API key in the script. Follow the instructions in the `openai-quickstart-vue` project to create your `.env` file and register your API key.
 
 ## Exercise 5.2: Try different Completion parameters
 
