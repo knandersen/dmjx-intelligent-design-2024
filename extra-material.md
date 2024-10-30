@@ -45,6 +45,7 @@ Founding member of OpenAI and led AI at Tesla. Fairly technical content, but a g
 - [Interactive LLM visualization](https://perplexity.vercel.app)
 - [_"I built my first AI NPC teammates and here’s what I learnt"_](https://interconnected.org/home/2023/09/01/npcs) by Matt Webb
 - ["The Internet Isn’t Meant To Be So Small"](https://defector.com/the-internet-isnt-meant-to-be-so-small) by Kelsey McKinney
+- Repository: [List of public APIs](https://github.com/public-apis/public-apis)
 
 ### Running AI models locally
 
