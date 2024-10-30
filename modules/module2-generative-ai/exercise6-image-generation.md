@@ -1,4 +1,4 @@
-# Exercise 6: GPT API
+# Exercise 6: Image Generation
 
 In this exercise, we will shift our focus towards image generation. Since you already have experience with basic image generation, this exercise will mainly focus on two things:
 
