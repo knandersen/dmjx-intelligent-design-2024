@@ -23,4 +23,4 @@ _When working with this exercise, please prepare it in a format that can be pres
 
 1. Either separately, or together with a fellow student, generate ideas for what kind of tool might be interesting for you to make. Try not to think too hard about what is realistic or technically possible.
 2. [Book a session](/README.md) with Kevin to talk through your idea and how you might build something this week that achieves it.
-3. Work on the tool
+3. Work on the tool. If you feel like you're stuck or done early, book a session with Kevin for critique and sparring!
