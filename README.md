@@ -22,7 +22,7 @@ The course will consist of three modules: Teachable Machine, Generative AI and s
 
 ### [Module 1: Teachable Machine](/modules/module1-teachable-machine/)
 
-This first module will give an introduction to using machine learning to classify images, sounds and body poses. These classifications will be an input mechanism for building apps.
+This first module gives an introduction to the field of intelligence in computing. Students use machine learning to classify images, sounds and body poses. These classifications become an input mechanism for building apps.
 
 #### Talks
 
@@ -38,7 +38,7 @@ This first module will give an introduction to using machine learning to classif
 
 ### [Module 2: Generative AI](/modules/module2-generative-ai/)
 
-This second module will give an introduction to use the latest wave of AI technologies that allow us to generate text, images and sounds. We will use generative AI as an input mechanism, an output mechanism, and as a thinking tool.
+This second module is an introduction to the latest wave of AI technologies that allow us to generate text, images and sounds. Students use generative AI as an input mechanism, an output mechanism, and as a thinking tool.
 
 #### Talks
 
@@ -54,4 +54,12 @@ This second module will give an introduction to use the latest wave of AI techno
 
 ### Module 3: Self-directed project
 
-In this last module, students will define and build their own projects using the tools and techniques they learned during the first two modules.
+In this last module, students will define and build their own projects using the tools and techniques they learned during the first two modules. The focus is on building tools that extend our ability to think and create.
+
+#### Talks
+
+[Talk 4: Project Brief, Tools](/modules/module3-project/talk4-project-brief-tools.pdf)
+
+#### Exercises
+
+[Exercise 7: Tools](/modules/module3-project/exercise7-tools.md)
