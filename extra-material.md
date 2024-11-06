@@ -47,15 +47,15 @@ Founding member of OpenAI and led AI at Tesla. Fairly technical content, but a g
 - ["The Internet Isn’t Meant To Be So Small"](https://defector.com/the-internet-isnt-meant-to-be-so-small) by Kelsey McKinney
 - Repository: [List of public APIs](https://github.com/public-apis/public-apis)
 
-### Running AI models locally
+## Running AI models locally
 
-#### [GGML](https://github.com/ggerganov/ggml)
+### [GGML](https://github.com/ggerganov/ggml)
 
-#### [Transformers.js](https://huggingface.co/docs/transformers.js/index)
+### [Transformers.js](https://huggingface.co/docs/transformers.js/index)
 
-#### [Google Chrome: Built-in AI](https://developer.chrome.com/docs/ai/built-in)
+### [Google Chrome: Built-in AI](https://developer.chrome.com/docs/ai/built-in)
 
-#### [ComfyUI](https://www.comfy.org)
+### [ComfyUI](https://www.comfy.org)
 
 ## Books
 
