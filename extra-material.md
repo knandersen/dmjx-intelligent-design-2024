@@ -66,3 +66,9 @@ Founding member of OpenAI and led AI at Tesla. Fairly technical content, but a g
 - Logic Magazine
 - Kernel
 - Nature of Code
+
+## Creative Constraint
+
+- [Oblique Strategies](https://en.wikipedia.org/wiki/Oblique_Strategies) by Brian Eno
+- [The Five Obstructions](https://www.dfi.dk/en/viden-om-film/filmdatabasen/film/de-fem-benspaend) by Jørgen Leth and Lars von Trier
+- [Sol Lewitt](https://en.wikipedia.org/wiki/Sol_LeWitt) and his art work guidelines/diagrams
